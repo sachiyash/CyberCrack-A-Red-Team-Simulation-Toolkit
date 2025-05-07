@@ -1,0 +1,2 @@
+This is a normal help file.
+# CyberCrack{Hidden_Whispers}
