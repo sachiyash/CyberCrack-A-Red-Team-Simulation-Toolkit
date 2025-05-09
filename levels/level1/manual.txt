@@ -1,0 +1,1 @@
+Welcome to Level 1! Your task is to find the hidden file and get the flag using basic Linux commands like ls -a and cat.
