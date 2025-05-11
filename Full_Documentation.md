@@ -40,8 +40,8 @@ Each level contains:
 Include images from `demo/screenshots/`:
 ```
 Level 1:
-Command: cat welcome.txt
-Output: FLAG{start_here}
+Command: cat .hidden_flag
+Output: CyberCrack{First_Flag_Found}
 ```
 
 ## 9. Challenges and Limitations
