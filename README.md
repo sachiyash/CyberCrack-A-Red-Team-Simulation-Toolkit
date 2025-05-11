@@ -1,18 +1,14 @@
-# Red-Team-vs-Blue-Team-AI-Simulations
-AI-driven Red Team vs Blue Team cybersecurity simulation tool
-*CyberCrack* is an AI-powered simulation toolkit designed for beginner-level cybersecurity training. It creates a controlled environment to simulate Red Team (attackers) and Blue Team (defenders) scenarios. Inspired by OverTheWire CTFs, this toolkit helps users understand ethical hacking, defensive strategies, and real-world attack simulations.
+# CyberCrack: A Red Team Simulation Toolkit for Beginner-Level CTF and Ethical Hacking Practice
 
-## Key Features
-- AI-simulated Red Team attack levels
-- Blue Team documentation for each level
-- 15+ CTF-style levels in a Linux folder-based structure
-- Beginner-friendly terminal interaction
+## Problem Statement
 
-## Tools & Technologies Used
-- Linux Terminal
-- Bash Scripting
-- Firefox Dev Tools, cURL
-- Git & GitHub
-- AI-assisted level generation logic
+CyberCrack is a Linux-based Red Team simulation project built for cybersecurity learners. It provides 15 progressively difficult CTF-style challenges, helping beginners understand core ethical hacking concepts such as file permissions, privilege escalation, and real-world Red Team tactics. Inspired by OverTheWire’s wargames (Krypton, Natas, Leviathan), this toolkit serves as a hands-on learning environment for aspiring cybersecurity professionals.
 
-## Project Structure
+---
+
+## Setup Instructions
+
+### Step 1: Clone the Repository
+```bash
+git clone https://github.com/sachiyash/CyberCrack.git
+cd CyberCrack
